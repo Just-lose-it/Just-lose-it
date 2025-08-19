@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 🔭 A CS sophomore in Tsinghua University
 - 🌱 Currently self-learning generative AI
+- 😄 Ready to engage in generative AI,HPC and other stuff
 - 📫 Email: wyd24@mails.tsinghua.edu.cn
 
 <!--
