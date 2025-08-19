@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 A CS sophomore in Tsinghua University
+- 🌱 Currently self-learning generative AI
+- 📫 Email: wyd24@mails.tsinghua.edu.cn
 
 <!--
 **Just-lose-it/Just-lose-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
